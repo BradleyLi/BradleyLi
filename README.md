@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jizhe.li@ucalgary.ca**
 
-- ⚡ Fun fact **I am probably the most athletic among all CS guys**
+- ⚡ Fun fact **I consider myself to be the most athletic CS person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
