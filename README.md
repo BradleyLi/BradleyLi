@@ -1,5 +1,4 @@
 <img width="1834" alt="Make your README" src="https://github.com/BradleyLi/BradleyLi/assets/66497679/45d569d5-ea9b-4436-bb12-86ed0233b4a9">
-<h1 align="center">Hi 👋, I'm Bradley Li</h1>
 <h3 align="center">I am a CPSC undergraduate at University of Calgary aspiring to become a full-stack developer and leverage technologies to solve real-world problems!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleyli&label=Profile%20views&color=0e75b6&style=flat" alt="bradleyli" /> </p>
