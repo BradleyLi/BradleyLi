@@ -1,7 +1,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/BradleyLi/BradleyLi/assets/66497679/45d569d5-ea9b-4436-bb12-86ed0233b4a9">
 <h3 align="center">I am a CPSC undergraduate at University of Calgary aspiring to become a full-stack software engineer and leverage technologies to solve real-world problems!</h3>
 
-- 🔭 I’m currently working on a **Travel Enterprise Plaform**
+- 🔭 I’m currently working on a (**Travel Enterprise Plaform**)[https://github.com/BradleyLi/Nature-Tour-Explorer]
 
 - 🌱 I’m currently learning **AWS and Machine/Deep Learning**
 
