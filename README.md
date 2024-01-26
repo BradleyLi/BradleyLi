@@ -5,7 +5,7 @@
 
 - 🚀 I am also side working on this project [**Local Loyalty Plaform**](https://github.com/techstartucalgary/LocaLoyalty) at Tech Start UCalgary, a club for entrepreneurship and innovation through technology.
 
-- 🌱 I’m currently learning **AWS and Machine/Deep Learning**
+- 🌱 I’m currently learning **Competitive Programming and .NET Tech Stack**
 
 - 📫 How to reach me **jizhe.li@ucalgary.ca**
 
